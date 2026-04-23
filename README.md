@@ -39,7 +39,7 @@ See `/docs/screenshots/`
 Available in `/docs/report.pdf`
 
 ## GitHub Repository
-(Add your repo link here)
+https://github.com/IsaacUG/Isaac-Dhibikirwa-End-of-Sem-Project-MCS-7201-Computer-Systems-Security.git 
 
 ## Setup Instructions
 1. Clone repository
