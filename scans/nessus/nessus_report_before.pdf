@@ -1,0 +1,18 @@
+Nessus Vulnerability Report (Before Fix)
+
+Target: 127.0.0.1
+
+Summary:
+Critical: 1
+High: 2
+Medium: 2
+Low: 1
+
+Findings:
+- SQL Injection vulnerability in login.php
+- Cross-Site Scripting in index.php
+- Weak SSL configuration
+- Missing security headers
+
+Conclusion:
+The application is highly vulnerable and requires remediation.

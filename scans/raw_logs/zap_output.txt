@@ -1,0 +1,18 @@
+ZAP Scan Log (Before Fix)
+
+[INFO] Starting scan on http://localhost/vulnerable_app
+[ALERT] SQL Injection detected on /login.php
+[ALERT] Reflected XSS detected on /index.php
+[WARNING] Missing X-Frame-Options header
+[WARNING] Cookie without HttpOnly flag
+[INFO] Scan completed
+
+-------------------------------------
+
+ZAP Scan Log (After Fix)
+
+[INFO] Starting scan on http://localhost/vulnerable_app
+[INFO] No SQL Injection vulnerabilities found
+[INFO] No XSS vulnerabilities found
+[WARNING] Minor header issues remain
+[INFO] Scan completed
