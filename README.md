@@ -5,43 +5,8 @@
 - Course: MCS 7201 - Computer Systems Security
 
 ## Project Overview
-This project focuses on identifying, exploiting, and fixing vulnerabilities in a vulnerable web application.
+This project focuses on identifying, exploiting, and fixing vulnerabilities in a vulnerable web application. It has two part and they are separeted in the respective folders. 
 
-## Tools Used
-- OWASP ZAP
-- Nessus
-- Manual Code Review
+Part A and Part B. 
 
-## Vulnerabilities Identified
-- SQL Injection
-- Cross-Site Scripting (XSS)
-- Path Traversal
-- CSRF
 
-## Fixes Implemented
-Each vulnerability was fixed using secure coding practices such as:
-- Prepared statements
-- Input validation
-- Output encoding
-- Access control
-
-## Results
-| Vulnerability  | Before | After |
-|----------------|--------|-------|
-| SQL Injection  | High   | Fixed |
-| XSS            | Medium | Fixed |
-| Path Traversal | High   | Fixed |
-
-## Screenshots
-See `/docs/screenshots/`
-
-## Report
-Available in `/docs/report.pdf`
-
-## GitHub Repository
-https://github.com/IsaacUG/Isaac-Dhibikirwa-End-of-Sem-Project-MCS-7201-Computer-Systems-Security.git 
-
-## Setup Instructions
-1. Clone repository
-2. Install XAMPP/LAMP
-3. Run application from `/app/patched/`
