@@ -1,0 +1,17 @@
+Nessus Scan Output
+
+Target: 127.0.0.1
+
+Before Fix:
+- Critical: SQL Injection vulnerability detected
+- High: Cross-Site Scripting
+- Medium: SSL Self-Signed Certificate
+- Low: Server Information Disclosure
+
+After Fix:
+- Critical: None
+- High: None
+- Medium: SSL configuration issue remains
+- Low: Minor header issues
+
+Scan completed successfully.
